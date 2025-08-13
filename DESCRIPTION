@@ -1,0 +1,26 @@
+Package: ffa
+Type: Package
+Title: Functional Factor Analysis
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Kyle", "Stanley",
+      email = "kyle.stanley2@pennmedicine.upenn.edu",
+      role = c("aut", "cre")
+    )
+  )
+Description: A package for performing functional factor analysis (FFA) on 
+    unidimensional functional data.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    GPArotation
+Suggests: 
+    testthat (>= 3.0.0),
+    roxygen2,
+    devtools,
+    usethis,
+    renv
+Config/testthat/edition: 3
+RoxygenNote: 7.3.2

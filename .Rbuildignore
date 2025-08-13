@@ -1,0 +1,7 @@
+^dev$
+^renv$
+^renv\.lock$
+^\.gitignore$
+^\.Rproj\.user$
+^\.DS_Store$
+^ffa\.Rproj$
